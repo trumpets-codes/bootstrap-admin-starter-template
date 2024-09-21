@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5a86924-4c8f-4267-82a4-04ed8801c1cd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/auth/confirm-password.html" beforeDir="false" afterPath="$PROJECT_DIR$/auth/confirm-password.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auth/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/auth/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auth/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/auth/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auth/reset-password.html" beforeDir="false" afterPath="$PROJECT_DIR$/auth/reset-password.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth/verify-email.html" beforeDir="false" afterPath="$PROJECT_DIR$/auth/verify-email.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726925886816</updated>
-      <workItem from="1726925888199" duration="9476000" />
+      <workItem from="1726925888199" duration="9603000" />
     </task>
     <servers />
   </component>
